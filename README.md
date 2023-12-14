@@ -23,8 +23,7 @@ RegisterNumber:
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
-
+<img width="244" alt="image" src="https://github.com/AkilaMohan/GCD-of-two-numbers/assets/144870831/55096dea-6a4c-4869-a4c4-4d78d2de3102">
 
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
